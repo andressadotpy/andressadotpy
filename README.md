@@ -2,8 +2,8 @@
 
 Hello! My name is :sparkles:Andressa:sparkles:  
   
-I'm a self-taught Software Developer and I believe *knowledge must be shared and accessible to everyone*! I love building new things and this is one of the reasons why I love coding so much!  
+I'm a self-taught Software Engineer and I'm currently working as Quality Software Engineer at Red Hat. I believe *knowledge must be shared and accessible to everyone*! I love building new things and this is one of the reasons why I love coding so much!  
   
-My main tools now are Python :snake:, Django and Flask! I'm completely in love with Backend and DevOps  
+My favorite programming language is Python and I'm learning Golang!
   
 Also, I like writing blog posts in my website [andressa.dev](https://andressa.dev/) :computer: and if you like, follow me at twitter [@andressadotpy](https://twitter.com/andressadotpy)!
