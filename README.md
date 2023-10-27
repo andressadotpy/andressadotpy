@@ -4,7 +4,7 @@ Olá! Meu nome é :sparkles:Andressa:sparkles:
 
 Eu sou uma Software Engineer autodidata e trabalho como Software Quality Engineer na Red Hat! Eu acredito que *conhecimento deve ser compartilhado e de livre acesso para todas as pessoas*! Eu amo aprender coisas novas e esse é um dos porquês eu amo tanto programar!  
 
-Minha linguagem de programação preferida é Python e eu trabalho diariamente com Golang e Ruby!  
+Minha linguagem de programação preferida é Python e eu trabalho diariamente com Python, Golang e Ruby!  
 
 Ainda, eu gosto de escrever coisas para a [DEV community](https://dev.to/andressadotpy) :computer: e se você quiser pode me seguir no Twitter [@andressadotpy](https://twitter.com/andressadotpy)!
 
